@@ -1,0 +1,5 @@
+download the libtorrent module in python before running it using the command,
+
+pip install libtorrent
+
+the  run it in your favorite code editor
